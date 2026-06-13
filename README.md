@@ -1,6 +1,6 @@
-# 👋 Hi, I'm 尹少俊 (inshocking)
+# 👋 Hi, I'm yinshaojun (inshocking)
 
-街溜子型程序员，7年老兵，民航 → 保险 → 互联网一路瞎捣鼓。
+街溜子型程序员，7年中登，民航 → 保险 → 互联网一路瞎捣鼓。
 
 Java 出身，AI 时代啥都想写。vibe coding、SSD、agent、harness 都玩过一点。  
 现在的方向：**用 AI 做自我提效**。训练不了 AI，就让 AI 训练自己。
