@@ -20,7 +20,7 @@ Java 出身，AI 时代啥都想写。vibe coding、SDD（spec）、agent、harn
 
 ## 🚀 Projects
 
-- [**projectbrain**](https://github.com/yinshaojun001/homebrew-projectbrain) — 帮助程序员理解代码库的 AI 工具，基于 codegraph 二次开发
+- [**projectbrain**](https://github.com/yinshaojun001/projectbrain) — 帮助程序员理解代码库的 AI 工具，基于 codegraph 二次开发
 
 ---
 
